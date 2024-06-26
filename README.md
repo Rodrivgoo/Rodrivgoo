@@ -32,22 +32,23 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 
 ---
-
+<div align="center">
 # 📊 GitHub Stats:
 
 ![Rodrigo's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrivgoo&show_icons=true&theme=radical)
-
+</div>
 ---
-
+<div align="center">
 ## 🏆 GitHub Trophies
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Rodrivgoo)](https://github.com/ryo-ma/github-profile-trophy)
-
+</div>
 ---
 
-## 📈 Analytics:
+
 
 <div align="center">
+  ## 📈 Analytics:
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrivgoo&theme=radical" alt="GitHub Streak" />
   <br>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrivgoo&layout=compact&theme=radical" alt="Top Langs" />
