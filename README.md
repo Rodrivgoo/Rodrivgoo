@@ -1,5 +1,7 @@
 # 💫 About Me:
-🚀 Skills learning: Currently focus on enhance my developing skills<cl>🌐 Team Ups: Open to collaboration! Frontend? Backend? I prefer backend...<cl>📘 🔍 My Specialty: Python - Django. Curious about other frameworks and lenguages<cl>🌟
+🚀 **Skills Learning:** Currently focused on enhancing my development skills.<br>
+🌐 **Team Ups:** Open to collaboration! Frontend? Backend? I prefer backend...<br>
+📘 **My Specialty:** Python - Django. Curious about other frameworks and languages.<br>
 
 
 
@@ -16,9 +18,11 @@
 
 
 # 📊 GitHub Stats:
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Rodrivgoo&show_icons=true&theme=radical)
 
 
 ## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Rodrivgoo)](https://github.com/ryo-ma/github-profile-trophy)
 
 
 Last Edited on: 26/06/2024
