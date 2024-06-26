@@ -47,8 +47,11 @@
 
 ## 📈 Analytics:
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrivgoo&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rodrivgoo&theme=radical)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=radical" alt="GitHub Streak" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical" alt="Top Langs" />
+</div>
 ---
 
 Last Edited on: 26/06/2024
