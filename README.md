@@ -1,7 +1,6 @@
 # 💫 About Me:
 🚀 **Skills Learning:** Currently focused on enhancing my development skills.<br>
-🌐 **Team Ups:** Open to collaboration! Frontend? Backend? I prefer backend...<br>
-📘 **My Specialty:** Python - Django. Curious about other frameworks and languages.<br>
+📘 **In the process of learning:** ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) <br>
 ---
 # 💻 Tech Stack:
 ### Languages:
