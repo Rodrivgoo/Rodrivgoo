@@ -1,6 +1,11 @@
 # 💫 About Me:
 🚀 **Skills Learning:** Currently focused on enhancing my development skills.<br>
-📘 **In the process of learning:** ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black) <br>
+📘 **In the process of learning:**
+<p align="center">
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/next.js-%23000000.svg?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS"/>
+</p>
 ---
 # 💻 Tech Stack:
 ### Languages:
