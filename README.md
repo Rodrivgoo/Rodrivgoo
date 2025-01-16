@@ -7,6 +7,7 @@
   <img src="https://img.shields.io/badge/langchain-%2300BFFF.svg?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain"/>
   <img src="https://img.shields.io/badge/llms-%2300FF00.svg?style=for-the-badge&logo=openai&logoColor=white" alt="LLMs"/>
   <img src="https://img.shields.io/badge/AI-%23FF4500.svg?style=for-the-badge&logo=artificialintelligence&logoColor=white" alt="Artificial Intelligence"/>
+  <img src="https://img.shields.io/badge/Fine_Tuning-%23FFD700.svg?style=for-the-badge&logo=python&logoColor=white" alt="Fine Tuning"/>
 </p>
 
 ---
@@ -15,6 +16,9 @@
 ### 🔹 Languages:
 ![Python](https://img.shields.io/badge/python-%2314354C.svg?style=for-the-badge&logo=python&logoColor=white)
 ![C](https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=white)
+
 
 ### 🔹 Web Development:
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
