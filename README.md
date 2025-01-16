@@ -41,25 +41,3 @@
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
----
-
-# 📊 GitHub Stats:
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rodrivgoo&show_icons=true&theme=radical" alt="Rodrigo's GitHub stats"/>
-</div>
-
----
-
-## 🏆 GitHub Trophies:
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Rodrivgoo&theme=radical" alt="GitHub Trophies"/>
-</div>
-
----
-
-## 📈 Analytics:
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Rodrivgoo&theme=radical" alt="GitHub Streak"/>
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Rodrivgoo&layout=compact&theme=radical" alt="Top Langs"/>
-</div>
