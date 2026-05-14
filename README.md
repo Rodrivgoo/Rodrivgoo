@@ -1,28 +1,30 @@
 # 💫 About Me:
-- 🎓 **Cloud Data Engineer | [cite_start]Industrial & Informatics Civil Engineer** [cite: 1, 2, 7]
-  [cite_start]Egresado de doble titulación en la Universidad Adolfo Ibáñez[cite: 2, 27]. [cite_start]Mi perfil combina la capacidad técnica para diseñar arquitecturas escalables con la visión estratégica para la optimización de procesos de negocio[cite: 4].
+- 🎓 **Cloud Data Engineer | Industrial & Informatics Civil Engineer**
+  Dual degree graduate from Universidad Adolfo Ibáñez. My profile combines technical expertise in designing scalable architectures with a strategic vision for optimizing business processes.
 
-- [cite_start]🚀 **Currently at BK Servicios Financieros:** Liderando la migración de sistemas legacy hacia un entorno de **Data Lakehouse** en AWS[cite: 7]. [cite_start]Especializado en el diseño de procesos ETL, orquestación y despliegue mediante Infraestructura como Código (IaC)[cite: 8, 10, 34].
+- 🚀 **Currently at BK Servicios Financieros:** Leading the migration of legacy systems to an **AWS Data Lakehouse** environment. Specialized in designing ETL processes, orchestration, and deploying Infrastructure as Code (IaC).
 
 - 📘 **Professional Certifications & Learning:**
-  - [cite_start]☁️ **In progress:** AWS Solutions Architect Associate[cite: 5, 35].
-  - [cite_start]✅ **Certified:** Microsoft Azure Data Fundamentals & IBM Design Thinking[cite: 30, 31].
-  - [cite_start]✅ **Certified:** Microsoft Excel Advanced[cite: 30].
+  - ☁️ **In progress:** AWS Solutions Architect Associate.
+  - ✅ **Certified:** Microsoft Azure Data Fundamentals & IBM Design Thinking.
+  - ✅ **Certified:** Microsoft Excel Advanced.
 
 <p align="center">
   <img src="https://img.shields.io/badge/AWS_CDK-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS CDK"/>
-  <img src="https://img.shields.io/badge/PySpark-%23E25A28.svg?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
+  <img src="https://img.shields.io/badge/AWS_Step_Functions-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Step Functions"/>
+  <img src="https://img.shields.io/badge/Amazon_Redshift-%238C4FFF.svg?style=for-the-badge&logo=amazon-redshift&logoColor=white" alt="Amazon Redshift"/>
   <img src="https://img.shields.io/badge/AWS_Glue-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS Glue"/>
+  <img src="https://img.shields.io/badge/PySpark-%23E25A28.svg?style=for-the-badge&logo=apache-spark&logoColor=white" alt="PySpark"/>
   <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
 </p>
 
 ---
 
 ## 🚀 My Professional Focus:
-- [cite_start]🏗️ **Cloud Architecture:** Diseño de arquitecturas modernas utilizando AWS Step Functions, Lambda y Redshift[cite: 10, 11].
-- [cite_start]⚙️ **Data Engineering:** Optimización de pipelines y esquemas analíticos (Star Schema) para maximizar el rendimiento y gobernanza[cite: 11, 34].
-- [cite_start]🤖 **AI & LLMs:** Experiencia previa integrando modelos LLM con Langchain y realizando análisis vectoriales[cite: 19, 22].
-- [cite_start]🏆 **Innovation:** 1er lugar Hackathon UAI 2024 y 3er lugar Hackathon UAI 2025[cite: 36, 37].
+- 🏗️ **Cloud Architecture:** Designing modern architectures leveraging the AWS Cloud Suite, primarily focusing on **AWS Step Functions, Lambda, and Redshift**.
+- ⚙️ **Data Engineering:** Optimizing data pipelines and analytical schemas (Star Schema) to maximize performance and data governance.
+- 🤖 **AI & LLMs:** Hands-on experience integrating LLM models with Langchain and performing vector analysis.
+- 🏆 **Innovation:** 1st place at UAI Hackathon 2024 and 3rd place at UAI Hackathon 2025.
 
 ---
 
@@ -31,6 +33,7 @@
 ### 🔹 Cloud & Data Engineering:
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Redshift](https://img.shields.io/badge/Amazon_Redshift-%238C4FFF.svg?style=for-the-badge&logo=amazon-redshift&logoColor=white)
+![Step Functions](https://img.shields.io/badge/AWS_Step_Functions-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![BigQuery](https://img.shields.io/badge/BigQuery-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-%23E25A28.svg?style=for-the-badge&logo=apache-spark&logoColor=white)
 
@@ -60,4 +63,7 @@
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rodrigo.gomezr21@gmail.com)
 
 ---
-[cite_start]*“Combinando la estrategia industrial con la ejecución informática para construir el futuro de los datos.”* [cite: 4]
+*“Combining industrial strategy with software execution to build the future of data.”*
+
+---
+*“This readme has been created by AI.”*
